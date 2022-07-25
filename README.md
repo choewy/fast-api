@@ -16,10 +16,7 @@ $ python3.10 -m venv .venv
 ### Activate .venv
 
 ```
-$ pwd
-{ .venv's ROOT }
-
-$ source { .venv's ROOT }/bin/activate
+$ source ./.venv/bin/activate
 ```
 
 ## Application
